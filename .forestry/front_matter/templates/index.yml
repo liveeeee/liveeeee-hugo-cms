@@ -8,3 +8,5 @@ fields:
     required: false
   label: 334 live
   description: 这是一条测试
+pages:
+- content/334live.html
