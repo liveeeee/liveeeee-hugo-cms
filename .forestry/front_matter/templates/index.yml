@@ -9,4 +9,5 @@ fields:
   label: 334 live
   description: 这是一条测试
 pages:
+- QWERTY.html
 - content/334live.html
