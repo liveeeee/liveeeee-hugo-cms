@@ -1,4 +1,10 @@
 ---
 label: index
 hide_body: false
-fields: []
+fields:
+- name: 334_live
+  type: text
+  config:
+    required: false
+  label: 334 live
+  description: 这是一条测试
